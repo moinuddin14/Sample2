@@ -1,1 +1,4 @@
-sample
+<?php
+echo "Hello World!";
+echo "Main hu don";
+?php>
