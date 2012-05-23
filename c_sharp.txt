@@ -1,5 +1,1 @@
-<?php
-echo "Hello World!";
-echo "Main hu don";
-echo "Are Divano Mujhe Pehchano, Kahase Aya... Main hu DON!";
-?php>
+sample commit 2
